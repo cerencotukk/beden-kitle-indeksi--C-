@@ -1,0 +1,11 @@
+C:\Users\CEREN_ÇOTUK\source\repos\beden kitle endeksi\beden kitle endeksi\obj\Debug\netcoreapp3.0\beden kitle endeksi.csprojAssemblyReference.cache
+C:\Users\CEREN_ÇOTUK\source\repos\beden kitle endeksi\beden kitle endeksi\obj\Debug\netcoreapp3.0\beden kitle endeksi.AssemblyInfoInputs.cache
+C:\Users\CEREN_ÇOTUK\source\repos\beden kitle endeksi\beden kitle endeksi\obj\Debug\netcoreapp3.0\beden kitle endeksi.AssemblyInfo.cs
+C:\Users\CEREN_ÇOTUK\source\repos\beden kitle endeksi\beden kitle endeksi\bin\Debug\netcoreapp3.0\beden kitle endeksi.exe
+C:\Users\CEREN_ÇOTUK\source\repos\beden kitle endeksi\beden kitle endeksi\bin\Debug\netcoreapp3.0\beden kitle endeksi.deps.json
+C:\Users\CEREN_ÇOTUK\source\repos\beden kitle endeksi\beden kitle endeksi\bin\Debug\netcoreapp3.0\beden kitle endeksi.runtimeconfig.json
+C:\Users\CEREN_ÇOTUK\source\repos\beden kitle endeksi\beden kitle endeksi\bin\Debug\netcoreapp3.0\beden kitle endeksi.runtimeconfig.dev.json
+C:\Users\CEREN_ÇOTUK\source\repos\beden kitle endeksi\beden kitle endeksi\bin\Debug\netcoreapp3.0\beden kitle endeksi.dll
+C:\Users\CEREN_ÇOTUK\source\repos\beden kitle endeksi\beden kitle endeksi\bin\Debug\netcoreapp3.0\beden kitle endeksi.pdb
+C:\Users\CEREN_ÇOTUK\source\repos\beden kitle endeksi\beden kitle endeksi\obj\Debug\netcoreapp3.0\beden kitle endeksi.dll
+C:\Users\CEREN_ÇOTUK\source\repos\beden kitle endeksi\beden kitle endeksi\obj\Debug\netcoreapp3.0\beden kitle endeksi.pdb
